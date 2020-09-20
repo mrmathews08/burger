@@ -46,7 +46,7 @@ https://drive.google.com/file/d/1kTcAbg3d9z1oSRURexOtA65p7SII6bDW/view
 ## Contributors
 Tyler Mathews
 ## Test
-Update password in connection.js
+Null
 ## Repository
 - [Project Repo](https://github.com/mrmathews08/burger)
 ## GitHub
