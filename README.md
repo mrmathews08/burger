@@ -1,2 +1,1 @@
-# burger
-eatDaburger
+Eat this burger!
